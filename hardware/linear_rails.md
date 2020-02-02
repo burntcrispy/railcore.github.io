@@ -1,4 +1,5 @@
 The RailCore II was designed around the idea of using linear rails on all the motion stages.  It's important that your rails move smoothly as that motion directly translates into your print quality.
+[There is a video for evaluating rails by Steve White](https://www.youtube.com/watch?v=DMAx_JSMqGc)
 
 Various Linear rails have been tested
 
